@@ -17,6 +17,7 @@ You can use the following folder structure or create your own:
 └─ 3_security
    └─ <your answer>
 ```
+## 1. Infrastructure - Terraform + GCP
 
 Provide a diagram and the Terraform code about the architecture in GCP to deploy our [Golang server](app/server.go) with high availability (HA) that can be used in a repeatable way.
 The answer should contain the following:
